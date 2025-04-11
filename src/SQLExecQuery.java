@@ -20,11 +20,12 @@ public class SQLExecQuery {
     public static void main(String[] args) {
         String connectionUrl = 
            "jdbc:sqlserver://CXP-SQL-03\\NSQ5;"
-                + "database=university;"
-                + "user=dbuser;"
+                + "database=Octopath;"
+                + "user=sa;"
                 // "password=password"
-                + "password=csds341143sdsc;"
+                //+ "password=csds341143sdsc;"
                 // + "password=scsd341143dscs;"
+                + "password=OXFkFEqU1iM0Tp"
                 + "encrypt=true;"
                 + "trustServerCertificate=true;"
                 + "loginTimeout=15;";
