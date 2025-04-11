@@ -19,7 +19,7 @@ public class SQLExecQuery {
     // Replace server name, username, and password with your credentials
     public static void main(String[] args) {
         String connectionUrl = 
-           "jdbc:sqlserver://CXP-SQL-03\\mxb1089;"
+           "jdbc:sqlserver://CXP-SQL-03\\NSQ5;"
                 + "database=university;"
                 + "user=dbuser;"
                 // "password=password"
