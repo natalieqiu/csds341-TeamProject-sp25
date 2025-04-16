@@ -1,0 +1,13 @@
+job,SWORD,LANCE,DAGGER ,AXE,BOW,ROD
+Warrior,1,1,,,,
+Dancer,,,1,,,
+Merchant,,1,,,1,
+Scholar,,,,,,1
+Cleric,,,,,,1
+Thief,1,,1,,,
+Hunter,,,,1,1,
+Apothecary,,,,1,,
+Inventor,1,,,1,,
+Armsmaster,1,1,1,1,1,1
+Conjurer,,,,,1,1
+Arcanist,,,1,,,1

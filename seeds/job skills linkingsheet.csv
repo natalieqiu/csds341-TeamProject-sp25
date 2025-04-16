@@ -1,0 +1,186 @@
+Job,combat/support,# unlocked ,Skill/ability Name,SP,Description
+Warrior,,1,Agressive Slash,9,Unleash a sword attack on random foes (3/4/5/6) times.
+Warrior,,2,Piercing Thrust,12,"Unleash a powerful polearm attack on a single foe, and have a (25/50/75/100%) chance to deal a critical hit."
+Warrior,,3,Abide,4,Raise your physical attack for (3/5/7/9) turns.
+Warrior,,4,Enervating Slash,7,"Nullify all positive status effects on a single foe, then unleash a sword attack. The more status effects you nullify, the more potent the attack.
+(This skill is mistranslated: it removes the warrior's buffs to boost damage from the attack)"
+Warrior,,5,Stout Wall,4,Raise your physical defence for (3/5/7/9) turns.
+Warrior,,6,Incite,4,Draw foes' single-target attacks to yourself for 3 turns.
+Warrior,,7,Vengeful Blade,6,Grant yourself the ability to counter physical damage with a sword attack (2/3/4/5) times. The counterattack reduces the enemy's Shield Points regardless of their weak points.
+Warrior,,8,Brand's Blade,30,Unleash an extraordinarily powerful sword attack on a single foe. 
+Warrior,Support,1,Bolstering Break,,Raises the equipping character's physical attack when breaking an enemy. [Grants PATK Up buff after breaking for 2 turns]
+Warrior,Support,2,Summon Strength,,Increases the physical strength of the equipping character by 50.
+Warrior,Support,3,Latent Power Plus,,Raises the amount of latent power gained by the equipping character.
+Warrior,Support,4,Deal More Damage,,"Increases the maximum damage that can be dealt by the equipping character to 99,999."
+Dancer,,1,Lion Dance,4,Raise the physical attack of a single ally for (2/4/6/8) turns.
+Dancer,,2,Ruinous Kick,10,"Unleash a powerful physical attack on a single foe, and reduce their Shield Points regardless of their weak points."
+Dancer,,3,Peacock Strut,4,Raise the elemental attack of a single ally for (2/4/6/8) turns.
+Dancer,,4,Sweeping Gale,7,Deal wind-based damage to a single foe.
+Dancer,,5,Stimulate,5,Move a single ally's next action up (1/2/3/act first) spot.
+Dancer,,6,Dagger Dance,9,Unleash a dagger attack on all foes
+Dancer,,7,Bewildering Grace,25,"Cause a curious effect to occur (1/2/3/4) time. The effects can be positive or negative, each BP used triggers an additonal effect."
+Dancer,,8,Sealticge's Seduction,30,Extend the reach of a single ally's skills to all for 3 turns. This does not affect divine skills or skills that only affect the user.
+Dancer,Support,1,The Show Goes On,,Extends the duration of augmenting effects granted by the equipping character by 1 turn
+Dancer,Support,2,Ever Evasive,,Enables the equipping character to more easily evade enemy attacks
+Dancer,Support,3,Hard Worker,,Receive additional JP after battles. (Equipping multiple characters with this skill will have no added effect.)
+Dancer,Support,4,Invigorate and Inspire,,Slightly fills the target's latent power gauge when the equipping character grants them an augmented effect
+Merchant,,1,Arrow of Fortune,12,"Unleash a powerful bow attack on a single foe and receive JP. The more damage you deal, the more JP you receive."
+Merchant,,2,Rest,0,"Restore one's own HP and SP, and cure status ailments."
+Merchant,,3,Collect,2,Collect money from a single foe.
+Merchant,,4,Ember,7,Deal fire-based damage to a single foe.
+Merchant,,5,Donate BP,6,Grant (1/2/3/4) BP to a single ally.
+Merchant,,6,Sidestep,10,Dodge (1/2/3/4) physical attack/s with a 100% success rate.
+Merchant,,7,Hired Help,0,"Pay money to summon hired help to the battlefield.
+Mercenary ($150) - Unleash a sword attack on all foes, and raise the physical defense of all allies.
+Ruffian ($800) - Reduce the physical attack and physical defense of all foes.
+Thespian ($2000) - Raise the elemental attack of all allies, and restore their SP.
+Guard ($7000) - Unleash a staff attack on all foes, and delay their actions.
+Beastling ($15000) - Unleash a physical attack on all foes, and reduce their Shield Points regardless of their weak points.
+Veteran Soldier ($30000) - Unleash a powerful attack on all foes with various weapons.
+Foreign Assassin ($50000) - Unleash a powerful dagger attack on all foes, and restore HP and SP to all allies. (Unlock: Beat foreign assassin in Western Merry Hills Pass, Crestlands)"
+Merchant,,8,Bifelgan's Bounty,30,Unleash a non-elemental attack on a single foe and receive leaf coin (money) equivalent to the damage dealt.
+Merchant,Support,1,Grows on Trees,,Receive additional [10%] money after battles. (Equipping multiple characters with this skill will have no added effect.)
+Merchant,Support,2,Boost-Start,,Grants the equipping character 1 BP at the start of battle.
+Merchant,Support,3,Hang Tough,,"When the equipping character is not near death, otherwise lethal attacks will instead leave them with 1 HP."
+Merchant,Support,4,Full Power,,Completely fills the equipping character's latent power gauge at the start of battle.
+Scholar,,1,"Fireball / Fire Storm / Ignis Ardere
+(Tier 1/ Tier II / Tier III)",14,"Tier I (Normal): Deal fire-based damage to all foes.
+Tier II (Advanced Magic): Deal fire-based damage to all foes 2 times.
+Tier III (Alephan's Wisdom): Deal fire-based damage to all foes 3 times."
+Scholar,,2,"Icewind / Blizzard / Glacies Claudere
+(Tier 1/ Tier II / Tier III)",14,"Tier I (Normal): Deal ice-based damage to all foes.
+Tier II (Advanced Magic): Deal ice-based damage to all foes 2 times.
+Tier III (Alephan's Wisdom): Deal ice-based damage to all foes 3 times."
+Scholar,,3,"Lightning Bolt / Lightning Blast / Tonitrus Canere
+(Tier 1/ Tier II / Tier III)",14,"Tier I (Normal): Deal lightning-based damage to all foes.
+Tier II (Advanced Magic): Deal lightning-based damage to all foes 2 times.
+Tier III (Alephan's Wisdom): Deal lightning-based damage to all foes 3 times."
+Scholar,,4,Analyze,1,Reveal the HP and (1/2/3/5) weak point of a single foe
+Scholar,,5,Stroke of Genius,5,Grant yourself (2/3/4/5) attribute-raising effects at random (Effects will stack)
+Scholar,,6,Elemental Barrage,10,"Deal either fire-, ice-, or lightning-based damage to random foes (3-5 / 4-6 / 5-7 / 6-8) times."
+Scholar,,7,Advanced Magic,15,Boosts the intensity of a single ally's spells 2 times (Default Tier 1 AOE spell becomes Tier 2 spell.)
+Scholar,,8,Alephan's Wisdom,30,Greatly boosts the intensity of a single ally's spells 3 times. (Default Tier 1 AOE spell becomes Tier 3 spell.)
+Scholar,Support,1,Evasive Maneuvers,,Reduces the rate of random encounters. (Equipping this skill with multiple characters will have no added effect)
+Scholar,Support,2,Elemental Augmentation,,Augments the equipping character's elemental attack strength by 50.
+Scholar,Support,3,Extra Experience,,Gain additional experience from battles. (Equipping this skill with multiple characters will have no added effect) [+10% EXP]
+Scholar,Support,4,Advanced Magic Master,,Raises the number of times the equipping character can use more intense spells by 1
+Cleric,,1,"Heal Wounds / Heal More / Heavenly Healing
+(Tier 1/ Tier II / Tier III)",15,"Tier I (Normal): Restore HP to all allies
+Tier II (Advanced Magic): Restore a great amount of HP to all allies.
+Tier III (Alephan's Wisdom): Restore a massive amount of HP to all allies."
+Cleric,,2,Holy Light,6,Inflict light-based damage to a single foe.
+Cleric,,3,Prayer to the Flame,8,Raise the physical and elemental defense of a single ally for (2/4/6/8) turns
+Cleric,,4,Mystical Staff,6,"Unleash a staff attack on a single foe 2 times, and steal SP equivalent to 10% of the damage dealt"
+Cleric,,5,"Luminescence / Radiance / Lux Congerere
+(Tier 1/ Tier II / Tier III)",9,"Tier I (Normal): Deal light-based damage to all foes.
+Tier II (Advanced Magic): Deal light-based damage to all foes 2 times.
+Tier III (Alephan's Wisdom): Deal light-based damage to all foes 3 times."
+Cleric,,6,Sacred Shield,10,"Grant a shield to a single ally, reducing damage taken from the next hit by (50/65/80/100%)"
+Cleric,,7,"Revive / Revive and Restore / Revive and Rejuvenate
+(Tier 1/ Tier II / Tier III)",40,"Tier I (Normal): Revive all allies
+Tier II (Advanced Magic): Revive all allies and restore a great amount of HP.
+Tier III (Alephan's Wisdom): Revive all allies and restore a massive amount of HP."
+Cleric,,8,Aelfric's Blessing,30,Grant a single ally the ability to act again at the end of a turn for 3 turns. Only one additional action can be taken per turn.
+Cleric,Support,1,Resilience,,"Raises the amount of HP restored to the equipping character when healed
+(This skill may be mistranslated? Seems to increase potency of healing abilities used by the equipping character, even on allies.)"
+Cleric,Support,2,Inner Strength,,Raises the equipping character's max SP by 50
+Cleric,Support,3,Evil Ward,,Increases the party's success rate when attempting to flee (Equipping multiple characters with this skill will have no added effect)
+Cleric,Support,4,Rise Again,,The equipping character will recover 25% of their max HP once per battle upon being incapacitated
+Thief,,1,Steal,2,Steal an item from a single foe. Odds increase with BP spent.
+Thief,,2,Darkest Night,7,Dark-based attack
+Thief,,3,HP Thief,6,Attack a single foe twice with a dagger and steal HP equivalent to half of damage dealt.
+Thief,,4,Surprise Attack,12,"Unleash a sword attack on a single foe. The sooner your action comes during a turn, the more potent the attack."
+Thief,,5,Swift Step,4,Raise your speed for 3 turns
+Thief,,6,Armor Corrosive,4,Reduce the physical defense of a single foe for (2/4/6/8) turns.
+Thief,,7,Shackle Foe,4,Reduce the physical attack of a single foe for (2/4/6/8) turns.
+Thief,,8,Aeber's Reckoning,30,"Attack all foes with a dagger, dealing damage proportional to your speed."
+Thief,Support,1,Incidental Attack,,The equipping character has a 50% chance of attacking when using a non-damaging skill
+Thief,Support,2,Fleetfoot,,Raise the equipping character's speed by 50
+Thief,Support,3,Ensnare,,The equipping character has a 50% chance of inflicting an attribute-reducing effect when taking physical damage
+Thief,Support,4,Life in the Shadows,,Receive additional [50%] EXP and [50%] JP after battles at night (Equipping multiple characters with this skill will have no added effect) [+50% EXP & JP]
+Hunter,,1,Precise Shot,6,Bow attack on (2/3/4/5) selected foes
+Hunter,,2,Thunderbird,7,Deal heavy lightning damage to a single foe.
+Hunter,,3,Cleaving Blow,12,"Axe attack on a single enemy, and grant yourself positive status effects based on the foe's type for 3 turns."
+Hunter,,4,Mercy Strike,4,Unleash a bow attack on a single foe. Otherwise lethal attacks will instead leave the target with 1hp
+Hunter,,5,Take Aim,8,Raise the critical rate and accuracy of all allies for (2/4/6/8) turns
+Hunter,,6,Leghold Trap,10,Cause a single foe to act at the end of the turn for (2/4/6/8) turns.
+Hunter,,7,Abating Orb,9,Nullify (1/2/3/4) of a single foe's augmenting effects
+Hunter,,8,Draefendi's Bow,30,Unleash a powerful bow attack on all foes 3 times.
+Hunter,Support,1,Heighten Senses,,Gain an [10%] increased chance of attack first in a battle. (Equipping this skill with multiple characters will have no added effect)
+Hunter,Support,2,Eagle Eye,,Increases the critical of the equipped character by 50.
+Hunter,Support,3,More Rare Monsters,,Raises the chance of encountering rare monsters. (Equipping this skill with multiple characters will have no added effect)
+Hunter,Support,4,Salt the Wound,,The equipping character has a 50% chance of acting twice when breaking a foe. This will not trigger in succession
+Apothecary,Skills,1,Healing Touch,6,Restore HP to or revive a single ally.
+Apothecary,,2,Icicle,7,Deal ice-based damage to a single foe.
+Apothecary,,3,Rehabilitate,10,Grant a single ally immunity to status ailments for (2/4/6/8) turns.
+Apothecary,,4,Sweeping Cleave,9,Unleash an axe attack on all foes.
+Apothecary,,5,Poison Axe,12,"Unleash a powerful axe attack on a single foe, and poison them for 2 turns."
+Apothecary,,6,Replenish Health,9,"For (3/5/7/9) turns, grant HP to a single ally after they perform an action."
+Apothecary,,7,Weak to Poison,4,Make a single foe weak to poison for (2/4/6/8) turns.
+Apothecary,,8,Dohter's Charity,30,Extend the reach of a single ally's items to affect all for 3 turns.
+Apothecary,Support,1,Vigorous Victor,,Restores 30% of the equipping character's max HP and SP upon winning the battle.
+Apothecary,Support,2,Hale and Hearty,,Raises the equipping character's max HP by 500.
+Apothecary,Support,3,Inspiriting Break,,Restores the equipping character's [20] SP when breaking a foe.
+Apothecary,Support,4,Preventative Measures,,Grants the equipping character immunity to enfeebling effects for 3 turns at the start of battle.
+Inventor,,1,Changeable Catapult,0,"Unleash an attack on all foes with a selected weapon
+Costs 1 turn to ""build"" to reuse once skill is performed for the first time."
+Inventor,,2,Springy Boots,0,"Cause a single ally to act first for (5/6/7/8) turns from the next turn
+Costs 2 turn to ""build"" to reuse once skill is performed for the first time."
+Inventor,,3,Critical Scope,0,"Turn all damage dealt to a single foe into critical damage for (4/5/6/7) turns
+Costs 3 turn to ""build"" to reuse once skill is performed for the first time."
+Inventor,,4,Elemental Bomb Bottle,0,Deal the same type of damage as a single foe's exposed elemental weak points (1/2/3/4) time
+Inventor,,5,Tin Horn,0,Fill the latent power gauge of all allies
+Inventor,,6,Hastening Hammer,0,"Unleash a highly powerful physical attack on a single foe, and reduce the crafting time of an invention by 1 turn"
+Inventor,,7,Arkar's Coil,0,"Restore (40/60/80/100%) of a single ally's HP and SP, and grant them (1/2/3/4) BP. Incapacitated allies will also be revived"
+Inventor,,8,All-Purpose Tool,0,Begin crafting all inventions.
+Inventor,Support,1,A Step Ahead,,The equipping character will act first at the start of battle
+Inventor,Support,2,Upgraded Accessories,,Raises the attributes [by 50%] of the equipping character's accessories
+Inventor,Support,3,BP in Adversity,,Grants the equipping character 2 BP when near death
+Inventor,Support,4,Fruits of Labor,,Raises the physical and elemental defense of the equipping character by 1 for every job skill learned
+Armsmaster,,1,Conqueror's Sword: Celestial Roar,35,"Charge your attack until the end of the turn, then unleash a powerful sword attack on a single foe. The longer the charge, the more potent the attack."
+Armsmaster,,2,Warlord's Spear: Giant Swing,35,"Unleash a moderately powerful polearm attack on all foes. The more foes there are, the more potent the attack."
+Armsmaster,,3,Dancer's Blade: Mischievous Step,35,"Unleash a dagger attack on random foes at least 3 times. The more foes there are, the more attacks you will unleash on your target."
+Armsmaster,,4,Lionheart's Axe: On the Hunt,35,"Unleash an axe attack on a single foe 2 times. The second strike will be more powerful than the first. The more weak points you have revealed, the more potent the attack."
+Armsmaster,,5,Hunter's Bow: Flurry of Arrows,35,"Unleash a moderately powerful bow attack on all foes. If you break even one foe, this attack will trigger twice."
+Armsmaster,,6,Spiritlord's Staff: Deliverance,35,"Unleash a powerful staff attack on a single foe. The higher your elemental attack, the more potent the attack"
+Armsmaster,,7,Bulwark,25,"Unleash a physical attack on a single foe, then go on the defensive until your next action. The higher your physical defense, the more potent the attack."
+Armsmaster,,8,Sixfold Strike,30,Unleash attacks with six different weapons on random foes.
+Armsmaster,Support,1,Master of Offense,,Enables the equipping character to more easily land critical hits on broken foes. [30% increase to crit rate]
+Armsmaster,Support,2,Peak Performance,,Raises damage dealt [by 50%] when the equipping character is at or above max HP.
+Armsmaster,Support,3,Invigorating Break,,Restores the equipping character's HP [by 20%] when breaking a foe.
+Armsmaster,Support,4,Arms Refinement,,Fills the equipping character's latent power gauge when exploiting an enemy's weak point.
+Conjurer,,1,Conjure Flames,20,Grant the weapons of all allies an additional fire-based attack for 2/3/4/5 turns.
+Conjurer,,2,Conjure Ice,20,Grant the weapons of all allies an additional ice-based attack for 2/3/4/5 turns.
+Conjurer,,3,Conjure Lightning,20,Grant the weapons of all allies an additional lightning-based attack for 2/3/4/5 turns.
+Conjurer,,4,Conjure Gusts,20,Grant the weapons of all allies an additional wind-based attack for 2/3/4/5 turns.
+Conjurer,,5,Prayer for Rain ,20,"For 2/3/4/5 turns, grant SP to all allies after they perform an action"
+Conjurer,,6,Dance of Immunity ,15,Grant a single ally immunity to enfeebling effects for 2/4/6/8 turns.
+Conjurer,,7,Rite of the Sun ,1,"Revive and fully restore the HP of all allies, and raise their physical defense and elemental defense for 2 turns. You will not be able to act for 6/5/4/3 turns."
+Conjurer,,8,BP Boost,50,Grant a single ally 2 BP at the start of every turn for 3 turns
+Conjurer,Support,1,Purification ,,Attribute-reducing effects on the equipping character will dissipate twice as quickly
+Conjurer,Support,2,SP Saver ,,Halves SP required for the equipping character's skills
+Conjurer,Support,3,Divine Wrath ,,"Bring misfortune upon the foe who renders the equipping character incapacitated. 
+[Causes 1 of 4 effects randomly after each death:
+1 - Reduces Physical Defense
+2 - Reduces Evasion and causes Poison and Blind. 
+3 - Deals 2000 fixed damage each of FIRE, LIGHT, DARK attribute. 
+4 - All Attributes Down for 4 turns.]"
+Conjurer,Support,4,BP Regeneration ,,"When using BP, the equipping character has a 25% chance of recovering the amount of BP used"
+Arcanist,,1,"Malice / Resentment / Malevolence
+(Tier 1/ Tier II / Tier III)",25,"Tier I (Normal): Deal dark-based damage to all foes, and restore HP to all allies. The more damage you deal, the more HP you restore.
+Tier II (Advanced Magic): Deal dark-based damage to all foes 2 times, and restore HP to all allies. The more damage you deal, the more HP you restore.
+Tier III (Alephan's Wisdom): Deal dark-based damage to all foes 3 times, and restore HP to all allies. The more damage you deal, the more HP you restore."
+,,2,"Blessing / Benediction / Spiritual Grace
+(Tier 1/ Tier II / Tier III)",25,"Tier I (Normal): Deal light-based damage to all foes, and restore SP to all allies. The more damage you deal, the more SP you restore.
+Tier II (Advanced Magic): Deal light-based damage to all foes 2 times, and restore SP to all allies. The more damage you deal, the more SP you restore.
+Tier III (Alephan's Wisdom): Deal light-based damage to all foes 3 times, and restore SP to all allies. The more damage you deal, the more SP you restore."
+,,3,Hex,18,Extend the duration of attribute-reducing effects on all foes by 1/2/3/4 turns.) [This can be empowered by Intensity for +1 turn per boost or Alephan's for +2 turns per boost]
+,,4,Seal of Diffusion ,25,Extend the reach of skills that only target the user to affect all allies for 3/5/7/9 turns.
+,,5,Seal of Inversion ,15,Change 1/2/3/4 attribute-reducing effect on yourself to an attribute-raising effect
+,,6,Seal of Immortality ,15,"Grant yourself an effect that leaves you with 1 HP when hit with an otherwise lethal attack. This effect will disappear once triggered, or after 3/5/7/9 turns"
+,,7,Reflective Barrier ,15,Apply reflect magic to an ally (1/2/3/4)
+,,8,Seal of Eternity ,50,Make a single buff last till the end of the battle.
+,Support,1,SP Recovery ,,"Upon taking damage, gain an amount of SP equivalent to 1% of damage taken"
+,Support,2,Lasting Memory ,,The equipping character's status effects do not disappear even when they become incapacitated
+,Support,3,Price of Power ,,"Doubles the amount of SP consumed when using magic, but increases the effect of spells"
+,Support,4,Of Equal Might ,,Equalizes the physical attack and elemental attack of the equipping character to whichever value is higher. This does not include attributes raised by equipment

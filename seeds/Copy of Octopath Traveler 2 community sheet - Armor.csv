@@ -1,0 +1,256 @@
+ID,Equipment,TYPE,HP,SP,PATK,PDEF,MATK,MDEF,ACC,EVA,CRT,SPD,EFFECT,SOURCE,COST
+11153,Cursed Shield,SHIELD,0,0,0,133,0,133,0,-66,0,0,,Chest: Shipwreck of the Empress (The Sundering Sea),
+2254,Battle-Tested Shield,SHIELD,0,0,0,120,0,120,0,0,0,0,Equip effect: Recover HP and SP after performing an action.,"Drop: Montwise (Guard) [Farmable], NPC: Veronica (New Delsta) Post Agnea Story",
+2253,Forbidden Shield,SHIELD,0,0,0,118,0,103,0,0,0,0,Equip effect: Raises the chances of encountering enemies.,Merchant: Western Crackridge Wilds,$80000
+11049,Wise King's Shield,SHIELD,0,0,0,110,0,110,0,0,0,0,Equip effect: Raises physical defense at start of battle.,SQ: In Search of the Divine Weapons,
+11051,Shield of Strength,SHIELD,0,0,0,108,0,108,0,0,0,0,Equip effect: Guaranteed critical hit when taking damage.,SQ: The strongest,
+11137,Giant Shield,SHIELD,0,0,0,105,0,103,0,0,0,-60,,"Shop: Roque Island, NPC: Bandelam (Steal/Entreat) (Crackridge Harbor: Anchorage)",
+2256,Aegis Shield,SHIELD,0,0,0,104,0,61,0,0,0,0,,Shop: Orerush (During Partio Chp 1) / Timberain,$18000
+11134,Protector's Shield,SHIELD,0,0,0,96,0,98,0,0,49,0,,NPC: Konzo (Castle Mei),
+2258,Adamantine Buckler,SHIELD,0,0,0,95,0,81,0,48,0,0,,"Shop: Gravell, Shop: (Ku, Hinoeuma)",
+11021,Sun Shield,SHIELD,0,0,0,91,0,91,0,0,0,0,Equip effect: Recover HP after performing an action.,Chest: Western Merry Hills Pass,
+11022,Quartz Shield,SHIELD,0,0,0,87,0,105,0,0,0,0,Equip effect: Prevents blindness.,Chest: Gravell (top right),
+2259,Swift Shield,SHIELD,0,0,0,79,0,97,0,0,0,47,,"Shop: Roque Island, Shop: Merry Hills",
+2255,Heavy Greatshield,SHIELD,0,0,0,76,0,76,0,-55,0,0,,"NPC: (Mug/Entreat) Sanctum Knight (Department Store, Wellgrove), Shop: Armorer (Deparment Store, Wellgrove)",
+11114,Diamond Shield,SHIELD,0,0,0,72,0,69,0,0,0,0,Equip effect: Prevents instant death.,"NPC: (Mug/Entreat) Merchant (Deparment Store, Wellgrove)",
+2257,Platinum Shield,SHIELD,400,0,0,65,0,53,0,0,0,0,,"NPC: Employee (Roque Island, In Tavern/Night), NPC: Sanctum Knight guarding the door (Stormhail: Sacred Guard HQ), Chest: Sundering Sea (NW of Shipwreck), Shop: Armorer (Department Store, Wellgrove)",
+11228,Master's Shield,SHIELD,0,0,0,58,0,58,0,0,0,31,,"NPC: Ku Soldier (Entreat) (Castle Ku: Entrance, Hinoeuma)",
+11020,Shield of Serenity,SHIELD,0,0,0,52,0,64,0,0,0,0,Equip effect: Prevents confusion.,"Chest: Sunken Maw (lvl 34 east of New Delstra, South of Flamechurch)",
+2250,Spiked Shield,SHIELD,0,0,0,44,0,32,0,0,17,0,,"Shop: (Sai, Hinoeuma) (Clockbank, Brightlands)",$6500
+2252,Plate Buckler,SHIELD,0,0,0,43,0,35,0,19,0,0,,"Shop: Wellgrove, Shop: Armorer (Deparment Store, Wellgrove), NPC: Clan Mei Soldier (Steal/Purchase) (Stormhail: Castle Mei) Post Ch.4 Hikari",
+2249,Silver Shield,SHIELD,150,0,0,42,0,34,0,0,0,0,,NPC: Yurinas (Steal) (Montwise),
+11229,Tattered Sacred Shield,SHIELD,0,20,0,35,0,35,0,0,0,0,,"Purchase from Thief in Winterbloom, Winterlands(Thieves' Quarter)",
+2247,Crested Greatshield,SHIELD,0,0,0,31,0,31,0,-30,0,0,,"Shop: Black Market, Clockbank, Sai | NPC: Wellgrove (Merchant - Night) | Chest: Clockbank",$3300
+2251,Feather Shield,SHIELD,0,0,0,27,0,31,0,0,0,26,,"Shop: New Delsta Flats Black Market, Montwise; NPC: Cleric Guild (Borderfall), NPC: Young Man (Mug/Steal) (Merry Hills)",$6900
+2248,Shell Buckler,SHIELD,0,0,0,26,0,22,0,9,0,0,,,
+2245,Guard's Shield,SHIELD,0,0,0,25,0,21,0,0,0,0,,"Chest: Flamechurch (Guarded), Northern Wellgrove Trail",
+2242,Sturdy Shield,SHIELD,0,0,0,25,0,25,0,-20,0,0,,Shop: Canalbrine | NPC: Beasting Village (Villager),$2300
+2246,Iron Shield,SHIELD,60,0,0,24,0,20,0,0,0,0,,,
+10392,Rabbit Shield,SHIELD,0,0,0,23,0,22,0,0,0,15,,"Chest: Ochette Ch.2 (Cavern of the Sea God, Conning Creek)",
+11019,Weathered Treasure Shield,SHIELD,0,0,0,20,0,24,0,0,0,0,Equip effect: Recover SP after performing an action.,Chest: Lair of the Usurper,
+2243,Kite Shield,SHIELD,0,0,0,20,0,18,0,0,0,0,,Shop: Ryu | NPC: Flamechurch (Soldier) | Chest: New Delsta Flats,$2300
+2240,Bronze Shield,SHIELD,30,0,0,17,0,16,0,0,0,0,,Shop: Oresrush | Chest: Giff's Manse,$2300
+2241,Leather Buckler,SHIELD,0,0,0,16,0,20,0,7,0,0,,Shop: New Delsta | Hidden: Beasting Village,$2300
+2244,Round Shield,SHIELD,0,0,0,15,0,21,0,0,0,6,,"Shop: Beasting Village, Cape Cold | NPC: Cape Cold (Attendant - Night) | Chest: Eastern Cropdale Trail",$2300
+2239,Buckler,SHIELD,0,0,0,11,0,9,0,0,0,0,,"Shop: Cropdale, Oresrush, Canalbrine, Beasting Village | NPC: Canalbrine (Townsperson - Night), New Delsta: Backstreets (Guard) | Hidden: Flamechurch: Cathedral",$600
+10062,Resplendent Shield,SHIELD,0,0,0,10,0,10,0,0,0,0,,Crick's equipment (Temenos Chapter 1),
+2237,Gray Shield,SHIELD,0,0,0,6,0,3,0,0,0,0,,Hikari starting equipment,
+2238,Small Shield,SHIELD,0,0,0,5,0,3,0,0,0,0,,"Castti, Throné and Temenos starting equipment",
+10063,Wooden Shield,SHIELD,0,0,0,4,0,4,0,0,0,0,,"Ochette, Partitio, and Agnea starting equipment",
+11050,Bodyguard's Vantage,SHIELD,0,0,60,0,0,0,80,0,60,0,,SQ: Veronica's Next Chapter,
+2236,Makeshift Shield,SHIELD,0,0,0,0,0,0,0,0,0,0,"It's not much of a shield, but it'll have to do.",,
+,,,,,,,,,,,,,,,
+2304,Cursed Helm,LIGHT_HELMET,0,-66,0,88,0,88,0,0,0,0,,Lost Seed: in the house where the child stand,
+2295,Mechanical Top Hat,LIGHT_HELMET,0,0,0,75,0,62,65,0,0,0,,Collect all Inventor's inventions,
+2282,Imperial Helm,LIGHT_HELMET,0,0,0,71,0,59,0,0,0,0,,"Shop: Timberain, NPC: Former Disciple (Mug/Entreat) (Sai, Hinoeuma Dojo at Night) Heig (Mug) (Stormhail, Bridge) (Post Ochette Ch.2)",$13000
+2290,Dragon's Helm,LIGHT_HELMET,0,0,0,69,0,53,0,0,0,0,Equip effect: Prevents unconsciousness.,Chest: Timberain Castle: Roof,
+2284,Gimmick Goggles,LIGHT_HELMET,0,0,0,65,0,43,0,59,0,0,,Shop: Roque Island,
+2300,Royal Guard's Helm,LIGHT_HELMET,0,0,0,64,0,64,0,0,58,0,,"Shop: Timberain, Bribe the Guard in the Weapons Shop at night",$15500
+2280,Great Helm,LIGHT_HELMET,0,0,0,59,0,59,0,0,0,49,,"Shop: Gravell; NPC: Soldier (Timberain Tavern), Shop: (Ku, Hinoeuma)",$13000
+2298,Art of Disguise,LIGHT_HELMET,0,90,0,58,0,70,0,0,0,0,,Shop: Merry Hills,$15500
+11526,Mermaid Circlet,LIGHT_HELMET,0,0,0,55,65,82,0,0,0,0,,Steal/Purchase: Hermes ,
+2291,Dazzling Tiara,LIGHT_HELMET,0,0,0,54,0,65,0,0,0,55,,Shop: (Merry Hills),$13000
+2293,Gaudy Hat,LIGHT_HELMET,0,0,0,53,0,53,0,0,0,0,Equip effect: Become more readily targeted by foes.,SQ: Reach for the stars (Gravell),
+2302,Cloth Headband,LIGHT_HELMET,0,0,0,52,0,54,0,0,0,60,,Steal Ku little boy top left,
+2283,Forgotten Hat,LIGHT_HELMET,0,60,0,51,0,67,0,0,0,0,,"NPC: Villager below Weaponshop (Gravell), Shop: Lostseed, NPC: Actor (Coerce) (Merry Hills)",
+2289,Antique Ceremonial Mask,LIGHT_HELMET,0,0,0,49,0,73,0,0,0,0,Equip effect: Recover SP after performing an action.,Chest: Wandering Wood (Toto'haha),
+2294,Lighthouse Keeper's Bandana,LIGHT_HELMET,0,0,0,46,0,58,0,0,54,0,,SQ: Lighthouse Restoration (Canalbrine),
+2281,Platinum Helm,LIGHT_HELMET,300,0,0,43,0,35,0,0,0,0,,"NPC: Costumer (Coerce) (Department Store, Wellgrove), Shop: Armorer (Deparment Store, Wellgrove), NPC: Young Man (Steal) (Merry Hills)",
+2285,Ancient Circlet,LIGHT_HELMET,0,0,0,41,55,77,0,0,0,0,,Shop: Nameless Village,$13000
+2303,Soldier's Hat,LIGHT_HELMET,0,0,0,38,0,38,0,0,0,36,,"NPC: Ku Soldier (Entreat) (Castle Ku: Entrance, Hinoeuma)",
+2278,Fighter's Headband,LIGHT_HELMET,150,0,0,37,0,37,0,0,0,0,,"Shop: (Sai, Hinoeuma), NPC: Zeto the Butcher (Entreat) (Ku, Hinoeuma), NPC: Ku Soldier (Steal/Entreat) (Castle Ku, Hinoeuma)",
+2277,Knight's Helm,LIGHT_HELMET,0,0,0,35,0,29,0,0,0,0,,"NPC: (Mug/Entreat) Sanctum Knight (Department Store, Wellgrove)",
+2279,Starlight Hat,LIGHT_HELMET,0,40,0,33,0,41,0,0,0,0,,"Shop: Armorer (Montwise), Shop: Armorer (Department Store, Wellgrove), NPC: Townsperson (Steal) (Merry Hills, Shrine Entrance)",
+2275,Horned Helm,LIGHT_HELMET,100,0,0,31,0,25,0,0,0,0,,"Shop: New Delsta Flats Black Market, NPC: (Mug/Entreat) Mercenary (New Delsta), Chest: (Mother's Garden, Leaflands) Throne Ch.3",$5000
+2301,Worker's Helmet,LIGHT_HELMET,0,0,0,30,0,26,0,0,20,0,,2,$5200
+2274,Hasty Helm,LIGHT_HELMET,0,0,0,30,0,24,0,0,0,20,,Shop: Clockbank,$4800
+2288,Silent Bandana,LIGHT_HELMET,0,0,0,26,0,33,0,0,0,0,Equip effect: Prevents terror.,Chest: Road to Mother's Garden (Leaflands),
+2299,Black Cap,LIGHT_HELMET,0,0,0,25,0,31,0,22,0,0,,Shop: Winterbloom (Extended Shop Info),$5200
+2286,Gelid Helm,LIGHT_HELMET,0,0,0,21,0,18,0,0,0,0,Equip effect: Reduces ice damage.,Shop: New Delsta Flats Black Market,$4200
+2276,Skull Helm,LIGHT_HELMET,0,0,0,20,22,36,0,0,0,0,,"NPC: Soldier (Mug/Entreat) (Sai, Hinoeuma)",
+2270,Cassius,LIGHT_HELMET,0,0,0,20,0,14,0,0,9,0,,Shop: Montwise Arena,
+2273,Battle Bandana,LIGHT_HELMET,0,0,0,19,0,19,0,11,0,0,,"NPC: Crackridge Harbor: Anchorage (Wildlands), Shop: (Sai, Hinoeuma)",
+2268,Guard's Helm,LIGHT_HELMET,0,0,0,19,0,16,0,0,0,0,,Chest: Canalbrine: Path to the Water Source | NPC: Winterbloom (Thief),
+2266,Bronze Helm,LIGHT_HELMET,0,0,0,18,0,15,0,0,0,0,,"Shop: Ryu, Canalbrine, New Delsta | NPC: Flamechurch (Soldier)",$1600
+2287,Guard's Hat,LIGHT_HELMET,0,0,0,17,0,21,0,0,0,0,Equip effect: Prevents silence.,"Chest: Osvald Ch. 3(Guard Outpost, Conning Creek)",
+2271,Headgear,LIGHT_HELMET,0,0,0,15,0,19,0,9,0,0,,Shop: Canalbrine,$2100
+2264,Fur Cap,LIGHT_HELMET,40,0,0,15,0,17,0,0,0,0,,Shop: Cape Cold (Extended) | Chest: Eastern Cape Cold Snows,$1900
+2265,Hide Hood,LIGHT_HELMET,0,0,0,15,0,15,0,8,0,0,,Shop: Beasting Village | NPC: Flamechurch (Beverage Vender) (Night),4
+2272,Silver Hairpiece,LIGHT_HELMET,0,30,0,14,0,22,0,0,0,0,,Shop: New Delsta | NPC: Cape Cold (Villager - Steal or Mug),$2300
+2292,Peddler's Feathered Cap,LIGHT_HELMET,0,0,0,14,0,20,0,0,0,0,Equip effect: Prevents sleep.,SQ: Ruffians' Redoubt,
+2267,Feathered Hat,LIGHT_HELMET,0,0,0,14,0,17,0,0,0,7,,"Shop: Oresrush, Beasting Village | NPC: Beasting Village (Villager), Canalbrine (Woman),  Flamechurch (Elder) | Hidden: Flamechurch | Chest: Western Clockbank Road",$1600
+2269,Pointed Hat,LIGHT_HELMET,0,0,0,12,9,22,0,0,0,0,,Shop: Flamechurch | Chest: Clockbank,$2100
+2263,Festival Garland,LIGHT_HELMET,0,15,0,12,0,18,0,0,0,0,,Shop: Cropdale | Hidden: Cropdale | Chest: Southern Cropdale Trail,$1600
+10064,Sanctum Knight's Helm,LIGHT_HELMET,0,0,0,10,0,5,0,0,0,0,,Crick's equipment (Temenos Chapter 1),
+2262,Leather Helm,LIGHT_HELMET,0,0,0,8,0,8,0,0,0,0,,"Shop: Ryu, Beasting Village, New Delsta, Cape Cold | Chest: Giff's Manse | NPC: New Delsta (Tutor)",$200
+2296,Pathfinder's Hat,LIGHT_HELMET,0,0,0,4,0,4,0,0,0,0,,,
+2297,Cloth Hood,LIGHT_HELMET,0,0,0,4,0,4,0,0,0,0,,"Shop: Prison: Underground Passage, Osvald Chapter 1 ONLY",$200
+1992,Gray Helm,LIGHT_HELMET,0,0,0,4,0,2,0,0,0,0,,Hikari starting equipment,
+10065,Black Hood,LIGHT_HELMET,0,0,0,4,0,2,0,0,0,0,,Throné starting equipment,
+2260,Leather Hat,LIGHT_HELMET,0,0,0,2,0,4,0,0,0,0,,"Ochette, Castti  and Temenos starting equipment",
+2261,Ordinary Hat,LIGHT_HELMET,0,0,0,2,0,3,0,0,0,0,,Partitio & Agnea starting equipment,
+,,,,,,,,,,,,,,,
+2358,Cursed Armor,LIGHT_ARMOR,0,0,0,222,0,222,0,0,0,-66,,Chest: House Wellows Manor (Leaflands),
+2343,Dragon Mail,LIGHT_ARMOR,0,0,0,195,0,105,0,0,0,0,Equip effect: Reduces fire damage.,Chest: Deserted Highroad,
+2336,Desert Plate,LIGHT_ARMOR,0,0,0,183,0,110,0,0,0,0,,"Shop: (Ku, Hinoeuma)",
+2350,Sublime Ornamental Armor,LIGHT_ARMOR,0,0,0,180,0,180,0,0,0,0,"Equip effect: Reduces fire, ice, lightning, and wind damage.","Chest: Sundering Sea, between Clock Bank and Merry Hills",
+2340,Vest of Joy,LIGHT_ARMOR,0,0,0,170,0,170,0,0,0,0,"Equip effect: Raises resistance to poison, sleep, confusion, blindness, silence, terror, and unconsciousness.",SQ: A Young Girl's Wish,
+2346,Imperial Armor,LIGHT_ARMOR,600,0,0,162,0,132,0,0,0,0,,Shop: Timberain,$24000
+2355,Royal Guard's Mail,LIGHT_ARMOR,750,0,0,160,0,160,0,0,0,0,,"Shop: Timberain, Bribe Soldier in Weapons Shop at Night",$26500
+11530,Star's Gown,LIGHT_ARMOR,0,0,0,155,0,180,0,80,0,0,,NPC: Dolcinea (New Delsta Theatre) Post Agnea Storyline,
+2334,Quartz Robe,LIGHT_ARMOR,0,60,0,146,0,149,0,0,0,0,,"NPC: Gravell Soldier near entrance at night, NPC: (Mug/Entreat) Merchant (Deparment Store, Wellgrove), Shop: Nameless Village",
+2333,Quick Cloak,LIGHT_ARMOR,0,0,0,132,0,162,0,0,0,65,,,
+2357,Blessed Vestments,LIGHT_ARMOR,0,0,0,130,74,215,0,0,0,0,,"NPC: Timberain, Judge in front of court house at day (Steal/Buy), Drop: Judge (Timberain) [Farmable]",$27550
+2342,Resplendent Costume,LIGHT_ARMOR,0,0,0,130,0,169,0,78,0,0,,Chest: Shrine of Ul'sterra (Crestlands) (Agnea Ch.5),
+2348,Butler's Tailcoat,LIGHT_ARMOR,0,0,0,128,0,192,0,0,75,0,,SQ: Misha's Next Chapter,
+2341,Lightning Armor,LIGHT_ARMOR,0,0,0,124,0,67,0,0,0,0,Equip effect: Reduces lightning damage.,,
+2349,Conjurer's Raiment,LIGHT_ARMOR,0,0,0,121,0,220,0,0,0,0,Equip effect: Recover HP after performing an action.,SQ: Tower of Trials,
+2335,Ornate Costume,LIGHT_ARMOR,0,0,0,118,0,176,0,63,0,0,,"Shop: Merry Hills, NPC: Dancer (Mug) (Merry Hills, Shrine Entrance), NPC: Apothecary (Coerce) (Merry Hills, Shrine Entrance)",
+2344,Antique Coat,LIGHT_ARMOR,0,0,0,115,0,184,0,0,0,0,Equip effect: Prevents poison.,,
+2356,Protector's Vestments,LIGHT_ARMOR,0,0,0,112,0,208,0,0,0,69,,Shop: Nameless Village,
+2332,Platinum Mail,LIGHT_ARMOR,400,0,0,109,0,89,0,0,0,0,,"Shop: Armorer (Deparment Store, Wellgrove)",
+2329,Knight's Armor,LIGHT_ARMOR,300,0,0,99,0,65,0,0,0,0,,NPC: Timberain,
+10389,Desert Armor,LIGHT_ARMOR,0,0,0,96,0,96,0,0,0,41,,"NPC: Ku Soldier (Entreat) (Ku, Hinoeuma), NPC: Ku Soldier (Steal/Entreat) (Castle Ku, Hinoeuma)",
+2330,Mage's Robe,LIGHT_ARMOR,0,0,0,74,41,112,0,0,0,0,,"Shop: Montwise, NPC: Nameless Isle, Night Mug, Chest: Castti Ch. 4 (Roof, Timberain Castle)",$15200
+2353,White Wolf Scarf,LIGHT_ARMOR,0,0,0,73,0,89,0,56,0,0,, ,
+2339,Bone Mail,LIGHT_ARMOR,0,0,0,70,0,47,0,0,23,0,,Chest: Western Crackridge Wilds (Wildlands),
+2328,Acrobat's Mantle,LIGHT_ARMOR,0,0,0,65,0,120,0,0,0,40,,"Shop: Winterbloom (Extended Shop Info), Shop: Armorer (Deparment Store, Wellgrove)",$15200
+2324,Nimble Mantle,LIGHT_ARMOR,0,0,0,65,0,53,0,0,0,22,,"Shop: Clockbank, NPC: Vassal (Steal/Purchase) (Stormhail: Castle Mei) Post Ch.4 Hikari",$8700
+2331,Denim Work Clothes,LIGHT_ARMOR,0,0,0,63,0,63,0,0,25,0,,Shop: Clockbank (Extended Shop Info),$9600
+2325,Dojo Hakama,LIGHT_ARMOR,0,0,0,59,0,59,0,23,0,0,,"Shop: (Sai, Hinoeuma)",
+2347,Dyed Clothes,LIGHT_ARMOR,0,0,0,50,0,75,0,0,0,0,Equip effect: Reduces light and dark damage.,SQ: Useless Fruit,
+2326,Elemental Robe,LIGHT_ARMOR,0,30,0,48,0,73,0,0,0,0,,"Shop: New Delsta Flats Black Market, Shop: Armorer (Department Store, Wellgrove), Chest: (Fellsun Ruins, Wildlands), NPC: Heresy Inspector (Steal) (Merry Hills)",$9100
+2327,Falcon Coat,LIGHT_ARMOR,0,0,0,44,0,83,0,26,0,0,,,
+2352,Gorgeous Sari,LIGHT_ARMOR,0,0,0,42,0,79,0,0,0,27,,,
+2322,Iron Mail,LIGHT_ARMOR,100,0,0,42,0,28,0,0,0,0,,Shop: Sai | NPC: Ryu (Mercenary - Night),
+2318,Guard's Armor,LIGHT_ARMOR,0,0,0,40,0,24,0,0,0,0,,"NPC: (Mug/Entreat) Thief (Thieves Quarters, Winterbloom), Chest: Osvald Ch. 3(Guard Outpost, Conning Creek)",
+2345,Beastling Battle Armor,LIGHT_ARMOR,0,0,0,37,0,33,0,0,11,0,,Shop: Beasting Village,18
+2321,Sailor's Vest,LIGHT_ARMOR,0,0,0,36,0,30,0,10,0,0,,                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                ,$3900
+2338,Wind Robe,LIGHT_ARMOR,0,0,0,33,0,36,0,0,0,0,Equip effect: Reduces wind damage.,Chest: Ruffian Hideout,
+2313,Copper Breastplate,LIGHT_ARMOR,0,0,0,31,0,21,0,9,0,0,,"Shop: Ryu, NPC: Ku Soldier (Coercee) (Castle Ku: Entrance, Hinoeuma)",$3100
+2315,Hunting Attire,LIGHT_ARMOR,0,0,0,29,0,32,0,0,8,0,,Shop: Beasting Village | NPC: Beasting Village (Beastling),12
+2351,Quality Vest,LIGHT_ARMOR,0,0,0,28,0,36,0,0,0,15,,"NPC: Garud (Cropdale, Leaflands)",
+2317,Fur Robe,LIGHT_ARMOR,0,0,0,28,9,34,0,0,0,0,,Shop: Cape Cold (Extended) | NPC: New Delsta: Game Parlor (Customer - Night),$3500
+2314,Pilgrim's Robe,LIGHT_ARMOR,0,15,0,27,0,33,0,0,0,0,,"Shop: Flamechurch | NPC: Flamechurch (Elder), Flamechurch: Cathedral (Cleric) | Chest: Southern Cape Cold Snows",$3100
+2337,Simple Costume,LIGHT_ARMOR,0,0,0,26,0,39,0,16,0,0,,Chest: Theater: Backstage,
+2319,Feather Mantle,LIGHT_ARMOR,0,0,0,26,0,38,0,0,0,10,,,
+2320,Champion's Garb,LIGHT_ARMOR,0,0,0,26,0,27,0,0,30,0,,Shop: Montwise,
+2323,Charm Robe,LIGHT_ARMOR,0,0,0,25,15,46,0,0,0,0,,,
+2316,Traveler's Mantle,LIGHT_ARMOR,0,0,0,24,0,36,0,0,0,7,,Shop: Oresrush | NPC: Orerush (Papp) | Hidden: New Delsta,$3100
+10066,Sanctum Knight's Armor,LIGHT_ARMOR,100,0,0,20,0,5,0,0,0,0,,Crick's equipment (Temenos Chapter 1),
+2312,Fur Armor,LIGHT_ARMOR,0,0,0,19,0,14,0,0,0,0,,"Shop: Oresrush, Ryu, Canalbrine, Cape Cold | NPC: New Delsta (Theater Doorman) | Chest: Forest Path, Eastern Flamechurch Pass",$400
+10382,Old Armor,LIGHT_ARMOR,0,0,0,18,0,13,0,0,0,0,,Shop: Black Market | Chest: Canalbrine: Water Source,$400
+2354,Worker's Jacket,LIGHT_ARMOR,0,0,0,8,0,8,0,0,0,0,,"NPC: Orerush (Supervisor - Partitio Ch. 1 Flashback), (Townsperson - Night)",
+1995,Desert Attire,LIGHT_ARMOR,0,0,0,8,0,4,0,0,0,0,,Hikari starting equipment,
+2307,Frog Membrane,LIGHT_ARMOR,0,0,0,7,0,5,0,0,0,0,,Ochette starting equipment,
+10067,Tough Waistcoat,LIGHT_ARMOR,0,0,0,7,0,5,0,0,0,0,,Partitio starting equipment,
+2305,Prisoner's Clothes,LIGHT_ARMOR,0,0,0,6,0,3,0,0,0,0,,Osvald starting equipment,
+2310,Black Attire,LIGHT_ARMOR,0,0,0,6,0,4,0,0,0,0,,Throné starting equipment,
+2309,Robe,LIGHT_ARMOR,0,0,0,5,0,10,0,0,0,0,,Temenos starting equipment,
+2308,Tattered Dress,LIGHT_ARMOR,0,0,0,4,0,4,0,0,0,0,,,
+2306,Apothecary's Attire,LIGHT_ARMOR,0,0,0,4,0,6,0,0,0,0,,Castti starting equipment,
+2311,Villager's Clothes,LIGHT_ARMOR,0,0,0,4,0,4,0,0,0,0,,Agnea starting equipment,
+,,,,,,,,,,,,,,,
+2361,Spurning Ribbon,ACCESSORY,0,0,0,0,0,0,0,0,0,0,Equip effect: Wards off all enemy encounters.,SQ: A Gate Between Worlds,
+2362,Alluring Ribbon,ACCESSORY,0,0,0,0,0,0,0,0,0,0,Equip effect: Raises the chances of encountering enemies.,"SQ: Lingering Love, Outside Wellgrove at night, there is a male npc in fort, mug, or entreat.",
+2363,EXP Augmentor,ACCESSORY,0,0,0,0,0,0,0,0,0,0,Equip effect: Receive additional EXP.,Chest: Sundering Sea (East of Frigit Isle),
+2364,JP Augmentor,ACCESSORY,0,0,0,0,0,0,0,0,0,0,Equip effect: Receive additional JP.,"Chest: (Cavern of Waves, Toto'haha)",
+11537,Brooch of Joy,ACCESSORY,0,0,0,0,0,0,0,0,0,0,Equip effect: Receive additional EXP and JP.,NPC: Melia (Steal) (Winterbloom) (Post Castti Story),
+2424,Cait Powder,ACCESSORY,0,0,0,0,0,0,0,0,0,0,Equip effect: Raises the chances of encountering caits.,"Chest: Tropu'hopu (Toto'haha), SQ: My Beloved Catharine",
+2425,Octopuff Pot,ACCESSORY,0,0,0,0,0,0,0,0,0,0,Equip effect: Raises the chances of encountering octopuffs.,"NPC: Conning Creek, Chest: Lighthouse Island (Sundering Sea)
+SQ: Will Research for money",
+2359,Dragon's Scarf,ACCESSORY,0,0,0,0,0,0,0,0,0,0,Equip effect: Recover SP after performing an action.,"SQ: Utterly Exhausted!, Shop: Armorer (Deparment Store, Wellgrove)",
+2360,Beastly Scarf,ACCESSORY,0,0,0,0,0,0,0,0,0,0,Equip effect: Recover HP after performing an action.,"Shop: Wellgrove Mall; Chest: Sundering Sea (NE of Canalbrine), Shop: Armorer (Deparment Store, Wellgrove)",$20000
+11115,Warding Necklace,ACCESSORY,0,0,0,0,0,0,0,0,0,0,Equip effect: Become less readily targeted by foes.,,
+11155,Divine Necklace,ACCESSORY,0,0,0,0,0,0,0,0,0,0,Equip effect: Prevents petrification.,NPC: Nameless village Challenge Bestia,
+2426,Melia's Amulet,ACCESSORY,0,0,0,0,0,0,0,0,0,0,Equip effect: Recover HP and SP after performing an action.,SQ: Melia's Next Chapter req. Complete Ch. 4 Castti (Winterbloom),
+2428,Enfeebling Amulet,ACCESSORY,0,0,0,0,0,0,0,0,0,0,Equip effect: Extends duration of inflicted enfeebling effects by 1 turn.,Chest: Unfinished Tunnel (Southern Crackridge Wilds),
+2429,Prosperity Charm,ACCESSORY,0,0,0,0,0,0,0,0,0,0,Equip effect: Receive additional leaves at the end of battle.,"SQ: The Soused Nobleman (Cropdale)
+Boss room chest up the ladder in Roque Company: Factory",
+2430,Charm of Compassion,ACCESSORY,0,0,0,0,0,0,0,0,0,0,Equip effect: Recover more HP and SP when healed.,Quest: Through a child's eyes,
+11138,Blessing in Disguise,ACCESSORY,0,0,0,0,0,0,0,0,0,0,Equip effect: Turns negative values on other equipment into positive values.,"Chest: Seat of the water sprite (Crestlands), Lost Isle (On the Sea)",
+11156,Finisher's Claws,ACCESSORY,0,0,0,0,0,0,0,0,0,0,Equip effect: Raises damage dealt by critical hits.,Chest: Nameless Isle (Sundering Sea),
+11157,Stone of Truth,ACCESSORY,0,0,0,0,0,0,0,0,0,0,Equip effect: Grants permanent spell intensity boost at start of battle.,Chest: Beneath the Wall (Infernal Castle,
+11158,Fang of Ferocity,ACCESSORY,0,0,0,0,0,0,0,0,0,0,Equip effect: Raises damage dealt by boosted attacks.,Chest: Curious Nest (Sundering Sea),
+11139,Gale Feather,ACCESSORY,0,0,0,0,0,0,0,120,0,0,Equip effect: Raises speed and evasion at start of battle.,"Boss Drop: Old Clock Tower (Clockbank river bottom-right, Brightlands)",
+11140,Eye of Calamity,ACCESSORY,0,0,120,0,120,0,0,0,0,0,Equip effect: Reduces physical attack and elemental attack at start of battle.,Boss Drop: Ivory Ravine (Wildlands),
+2427,Victory Ring,ACCESSORY,0,0,20,0,0,0,0,0,0,0,Equip effect: Raises physical attack at start of battle.,SQ: A Gambling Man (New Delsta),
+11154,Hand-Sewn Gloves,ACCESSORY,0,0,0,0,0,60,0,0,0,0,Equip effect: Raises elemental defense at start of battle.,NPC: Stormhail,
+11117,Foreign Ring,ACCESSORY,0,0,0,0,0,0,0,0,35,0,Equip effect: Raises critical rate at start of battle.,NPC: Traveler (Clockbank | Day),
+2431,Alpione's Amulet,ACCESSORY,1200,0,0,0,0,0,0,0,0,0,Equip effect: Deal more damage when your HP is low.,"SQ: Alpione's Next Chapter (Gravell) (Post Ochette Story). Get info from merchant just outside western exit of Gravell, and report back to Alpione.",
+2432,Librarian's Amulet,ACCESSORY,0,120,0,0,0,120,0,0,0,0,,"SQ: Procuring Peculiar Tomes (Montwise: Library, Crestlands)",
+2433,Champion's Belt,ACCESSORY,0,0,100,0,0,0,0,0,100,0,Equip effect: Prevents surprise attacks from enemies.,SQ: Tourney Champion (Montwise) (Able to farm it from the same quest giver after that),
+11052,Mikka's Amulet,ACCESSORY,0,0,0,100,0,0,100,0,0,100,,SQ: Mikka's Next Chapter,
+11053,Laila's Amulet,ACCESSORY,0,0,0,0,100,0,0,100,0,0,,SQ: Laila's Next Chapter (Merry Hills) (Post Agnea & Temenos Story),
+11054,Sisters' Amulet,ACCESSORY,0,0,0,0,0,0,0,0,100,100,,"SQ: The Missing Girl (Gravell, Wildlands}, Boss Fight in Ivory Ravine, Lead Lost Girl to Worried Mother.",
+11124,Jade Ring,ACCESSORY,100,10,0,0,0,0,0,0,0,0,,,
+11116,Shadowsage Necklace,ACCESSORY,0,40,0,0,40,0,0,0,0,0,,"Stolen from child in Mother's Orphanage
+",
+11103,Rosary of Redemption,ACCESSORY,0,0,-60,0,0,0,0,0,-60,0,,"Shop: Black Market | NPC: New Delsta: Backstreets (Blacksnake - Night), Flamechurch (Elderly Man)",$3000
+11055,Coat of Arms,ACCESSORY,0,0,0,100,0,100,0,0,0,0,,SQ: From the Far Reaches of Hell (Montwise),
+2384,Blazon of Protection,ACCESSORY,0,0,0,30,0,30,0,0,0,0,,Shop: New Delsta Flats Black Market ,$6500
+11104,Scarlet Stone of Protection,ACCESSORY,0,0,0,0,0,30,0,0,0,0,Equip effect: Recover SP after performing an action.,NPC: Cohazeh (Steal/Purchase) Complete Ochette Ch. 3 (Beastling Village),
+11159,Crescent Moon Necklace,ACCESSORY,0,0,0,0,0,0,15,15,0,0,,,
+11160,Moonshell Necklace,ACCESSORY,0,0,0,0,0,0,0,0,0,35,,NPC: Islander (Tropu'hopu),
+11161,Moonshell Bracelet,ACCESSORY,0,0,0,0,0,0,0,0,35,0,,NPC: Islander (Tropu'hopu),
+2380,Physical Belt,ACCESSORY,0,0,65,50,0,0,0,0,0,0,,"Throne Chapter 1 Headquarters in chest behind guard, NPC: Entreat/Mug inside Gravell (Night) Weapons Shop, SQ: Stage Actors (Tropu'hopu)",
+2381,Mental Belt,ACCESSORY,0,0,0,0,65,50,0,0,0,0,,"Chest: Southern Nameless Village Traverse, SQ: A Forced Hand (Timberian), NPC: Cleric (Stormhail Sacred Guard Headquarters)",
+2382,Mighty Belt,ACCESSORY,0,0,50,0,0,0,0,0,0,0,,"NPC: Clockbank (Industrial) Factory Worker, Chest: (Cavern of Moon and Sun, Harborlands)",
+2383,Elemental Augmentor,ACCESSORY,0,0,0,0,100,0,0,0,0,0,,"NPC: Townsperson (Sai: East | Night), Chest: Shrine of Ul'sterra (Crestlands) (Agnea Ch.5)",
+2392,Guardian Amulet,ACCESSORY,0,0,0,65,0,0,0,0,0,0,,Chest: Abandoned Traverse (Crestlands),
+2393,Elemental Ward,ACCESSORY,0,0,0,0,0,65,0,0,0,0,,"Chest: Mount Liphia (Brightlands), NPC: Scholar (Mug) (Merry Hills, Shrine Entrance)",
+2365,Empowering Necklace,ACCESSORY,1000,0,0,0,0,0,0,0,0,0,,"NPC: Timberain, NPC; (Scrutinize) Merchant (Armorer, Roque Island), Chest: (Merry Hills, Shrine Entrance)",
+2366,Stimulating Necklace,ACCESSORY,0,80,0,0,0,0,0,0,0,0,,"NPC: Apprentice Dancer, Wellgrove.",
+2367,Protective Necklace,ACCESSORY,0,0,0,80,0,80,0,0,0,0,,"NPC: Treasurer (Steal) (Castle Ku: Entrance, Hinoeuma), Hidden Item in Ku (forgot which npc)",
+2368,Unerring Necklace,ACCESSORY,0,0,0,0,0,0,80,0,0,0,,,
+2369,Enlightening Necklace,ACCESSORY,0,0,0,0,0,0,0,80,0,0,,,
+2370,Sprightly Necklace,ACCESSORY,0,0,0,0,0,0,0,0,0,80,,Chest: (Lost Seed Castle) Throne Ch.4,
+2371,Critical Necklace,ACCESSORY,0,0,0,0,0,0,0,0,80,0,,,
+2373,Empowering Bracelet,ACCESSORY,500,0,0,0,0,0,0,0,0,0,,"Chest: Snowhares' Den (Winterlands), Shop: Department Store, Wellgrove, Shop: Timberain",$6500
+2374,Stimulating Bracelet,ACCESSORY,0,50,0,0,0,0,0,0,0,0,,Shop: Timberain,
+2375,Protective Bracelet,ACCESSORY,0,0,0,50,0,50,0,0,0,0,,"Chest: Ochette Ch.2 Terra Route (Bed of the Titan, Wildlands), Shop: Merry Hills, NPC: Benkei (Steal) (Castle Ku, Hinoeuma)",
+2376,Unerring Bracelet,ACCESSORY,0,0,0,0,0,0,50,0,0,0,,"Shop: Armorer (Department Store, Wellgrove), NPC: Ku Soldier (Entreat) (Castle Ku: Entrance, Hinoeuma)",
+2377,Enlightening Bracelet,ACCESSORY,0,0,0,0,0,0,0,50,0,0,,"NPC: (Coerce) Merchant (Department Store, Wellgrove), Shop: Armorer (Department Store, Wellgrove)",
+2378,Sprightly Bracelet,ACCESSORY,0,0,0,0,0,0,0,0,0,50,,"Chest: Western Tropu'hopu Traverse, NPC: Tavern Assistant (Steal) (Merry Hills)",
+2379,Critical Bracelet,ACCESSORY,0,0,0,0,0,0,0,0,50,0,,"NPC: Ku Officer (Entreat) (Ku, Hinoeuma)",
+2385,Empowering Ring,ACCESSORY,200,0,0,0,0,0,0,0,0,0,,"Shop: Cropdale (Extended), Sai, Black Market | NPC: Ryu (Mercenary) (Night) | Hidden: Orerush | Chest: Canalbrine: Path to the Water Source",$3000
+2386,Stimulating Ring,ACCESSORY,0,30,0,0,0,0,0,0,0,0,,Shop: Cropdale | Chest:Flamechurch Pilgrims' Way,$3000
+2387,Protective Ring,ACCESSORY,0,0,0,20,0,20,0,0,0,0,,Shop: Flamechurch (Extended) | Chest: Underground Waterway,$3000
+2388,Unerring Ring,ACCESSORY,0,0,0,0,0,0,20,0,0,0,,Shop: New Delsta Black Market | Chest: Path to the Tombs of the Wardenbeasts,$3000
+2389,Enlightening Ring,ACCESSORY,0,0,0,0,0,0,0,20,0,0,,NPC: New Delsta: Game Parlor (Customer - Night) | Chest: Abandoned Silver Mine,
+2390,Sprightly Ring,ACCESSORY,0,0,0,0,0,0,0,0,0,20,,"NPC: New Delsta (Youth), Ryu (Mercenary - Night) | Hidden: Beasting Village | Chest: Veil of Trees",
+2391,Critical Ring,ACCESSORY,0,0,0,0,0,0,0,0,20,0,,Shop: Black Market | NPC: Wellgrove (Townsperson) | Hidden: Ku (Hikari Chapter 1) | Chest: Castle Ku: Entrance (Enter from Castle Ku),$3000
+10393,Falcon Ring,ACCESSORY,0,0,0,0,0,0,0,10,0,10,,Shop: New Delsta Black Market,$3000
+2394,Empowering Earring,ACCESSORY,50,0,0,0,0,0,0,0,0,0,,"Shop: Beasting Village | NPC: Beasting Village (Trapper), Orerush (Tavern Assistant)",$280
+2395,Stimulating Earring,ACCESSORY,0,10,0,0,0,0,0,0,0,0,,"Shop: Oresrush | NPC: Beasting Village (Villager), Canalbrine (Cleric), Cropdale (Villager), Cropdale (Weaver)",$280
+2396,Protective Earring,ACCESSORY,0,0,0,10,0,10,0,0,0,0,,"Shop: Flamechurch | NPC: New Delsta (Woman), Flamechurch (Piano-Playing Cleric)",$280
+2397,Unerring Earring,ACCESSORY,0,0,0,0,0,0,10,0,0,0,,Shop: New Delsta | NPC: Orerush ((Ranch Owner) | Hidden: New Delsta: Backstreets,$280
+2398,Enlightening Earring,ACCESSORY,0,0,0,0,0,0,0,10,0,0,,Shop: Cape Cold | NPC: Flamechurch: Cathedral Entrance (Sanctum Knight),$280
+2399,Sprightly Earring,ACCESSORY,0,0,0,0,0,0,0,0,0,10,,Shop: Ryu | NPC: Cape Cold (Villager),$280
+2400,Critical Earring,ACCESSORY,0,0,0,0,0,0,0,0,10,0,,Shop: Canalbrine,$280
+10386,Ancient Necklace,ACCESSORY,30,10,0,0,0,0,0,0,0,0,,Chest: Prison: Underground Passage,
+2403,Wargod's Talisman,ACCESSORY,0,0,10,0,0,0,0,0,0,0,,"Shop: Ryu, New Delsta Black Market",$1800
+2402,Silver Locket,ACCESSORY,0,0,0,0,10,0,0,0,0,0,,"Shop: Oresrush, New Delsta Black Market",$1800
+10387,Angel's Ring,ACCESSORY,0,30,0,0,0,20,0,0,0,0,,"Shop: New Delsta Flats Black Market, Chest: Temenos & Throne Crossed Paths (Flamechurch Cathedral)",$6500
+2401,Traveler's Charm,ACCESSORY,30,0,0,5,0,0,0,0,0,0,,"Shop: Canalbrine, Beasting Village",$150
+2372,Tattered Shoes,ACCESSORY,0,0,0,2,0,2,0,0,0,0,,,
+2404,Inferno Amulet,ACCESSORY,0,0,0,0,0,0,0,0,0,0,Equip effect: Greatly reduces fire damage.,"NPC: Gravell, Outside Inn at Night",
+2405,Blizzard Amulet,ACCESSORY,0,0,0,0,0,0,0,0,0,0,Equip effect: Greatly reduces ice damage.,Chest: Infernal Castle,
+2406,Tempest Amulet,ACCESSORY,0,0,0,0,0,0,0,0,0,0,Equip effect: Greatly reduces wind damage.,NPC: Woman (Steal) (Merry Hills),
+2407,Thunderstorm Amulet,ACCESSORY,0,0,0,0,0,0,0,0,0,0,Equip effect: Greatly reduces lightning damage.,"Chest: (Clan Mei: East Tower, Winterlands) Hikari Ch.4",
+2408,Void Amulet,ACCESSORY,0,0,0,0,0,0,0,0,0,0,Equip effect: Greatly reduces dark damage.,NPC: (Entreat) Diviner (Wellgrove),
+2409,Gleaming Amulet,ACCESSORY,0,0,0,0,0,0,0,0,0,0,Equip effect: Greatly reduces light damage.,"NPC: Designer (Mug) (Merry Hills, Shrine Entrance), Chest: (Forbidden Shrine, Winterlands) Temenos Ch.3",
+2410,Fire Amulet,ACCESSORY,0,0,0,0,0,0,0,0,0,0,Equip effect: Reduces fire damage.,"NPC: (Mug/Entreat) Merchant (Deparment Store, Wellgrove), Chest: Ochette Ch.2 Terra Route (Bed of the Titan, Wildlands)",
+2411,Ice Amulet,ACCESSORY,0,0,0,0,0,0,0,0,0,0,Equip effect: Reduces ice damage.,"NPC: Canalbrine (Woman) | Chest: Ochette Ch.2 (Sacred Peak Altahe, Winterlands)",
+2412,Wind Amulet,ACCESSORY,0,0,0,0,0,0,0,0,0,0,Equip effect: Reduces wind damage.,"Chest: Southern Cropdale Trail, [Starfall Spring Entrance]",
+2413,Lightning Amulet,ACCESSORY,0,0,0,0,0,0,0,0,0,0,Equip effect: Reduces lightning damage.,Chest: Theater: Backstage,
+2414,Dark Amulet,ACCESSORY,0,0,0,0,0,0,0,0,0,0,Equip effect: Reduces dark damage.,"NPC: Flamechurch: Cathedral (Cleric), Bolderfall | Chest: Sacred Guard Ship",
+2415,Light Amulet,ACCESSORY,0,0,0,0,0,0,0,0,0,0,Equip effect: Reduces light damage.,NPC: Traveler (Mug) (Merry Hills),
+2416,Antidote Stone,ACCESSORY,0,0,0,0,0,0,0,0,0,0,Equip effect: Prevents poison.,Chest: Abandoned Waterway,
+2417,Wakeful Stone,ACCESSORY,0,0,0,0,0,0,0,0,0,0,Equip effect: Prevents sleep.,Chest: Starfall Spring,
+2418,Articulate Stone,ACCESSORY,0,0,0,0,0,0,0,0,0,0,Equip effect: Prevents silence.,NPC: Woman (Coerce) (Merry Hills),
+2419,Bright Stone,ACCESSORY,0,0,0,0,0,0,0,0,0,0,Equip effect: Prevents blindness.,,
+2420,Calming Stone,ACCESSORY,0,0,0,0,0,0,0,0,0,0,Equip effect: Prevents terror.,"NPC: (Coerce) Factory Worker (Clockbank), Chest: (Mother's Garden, Leaflands) Throne Ch.3",
+2421,Clarity Stone,ACCESSORY,0,0,0,0,0,0,0,0,0,0,Equip effect: Prevents confusion.,,
+2422,Conscious Stone,ACCESSORY,0,0,0,0,0,0,0,0,0,0,Equip effect: Prevents unconsciousness.,,
+2423,Vivifying Stone,ACCESSORY,0,0,0,0,0,0,0,0,0,0,Equip effect: Prevents instant death.,Chest: Forsaken Graveyard (Crestland),

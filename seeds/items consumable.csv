@@ -1,0 +1,21 @@
+name,type of consumable,desc
+Diffusing Serum,Special,Extends the reach of effects to all.
+Strengthening Serum,Special,Enhances effects
+Cleansing Leaf,Medicinal,Nullifes status ailments.
+Dual Leaf,Medicinal,"Restores HP after performing an action during the day, SP during the night."
+Fool's Leaf,Medicinal,Reduces likelihood of being targeted by foes.
+Grape Leaf,Medicinal,Restores HP.
+Mighty Leaf,Medicinal,Raises physical attack.
+Plum Leaf,Medicinal,Restores SP.
+Pomegrante Leaf,Medicinal,Restores BP.
+Warding Leaf,Medicinal,Raises elemental defense.
+Whimsical Leaf,Medicinal,Affects action order.
+Blusterbloom,Hazardous,Deals wind-based damage.
+Darkdelion,Hazardous,Deals dark-based damage.
+Dreamy Flower,Hazardous,Puts target to sleep.
+Dual Flower,Hazardous,Confuses target during the day and blinds them at night.
+Enfeebling Flower,Hazardous,Extends status ailment duration
+Forget-Me-Do,Hazardous,Nullifies random augmenting effects.
+Fumbling Flower,Hazardous,Reduces critical rate.
+Lily of the Light,Hazardous,Deals light-based damage.
+Sticky Flower,Hazardous,Reduces speed and evasion.
